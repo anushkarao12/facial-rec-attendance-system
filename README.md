@@ -26,7 +26,8 @@ pip install numpy
 
 ---
 
-##🚀 How to Run the Project
+## 🚀 How to Run the Project
+
 1. Clone the repository:
 ```bash
 git clone https://github.com/anushkarao12/facial-rec-attendance-system.git
@@ -42,7 +43,8 @@ python facealrec2.0.py
 
 ---
 
-##🧠 How It Works
+## 🧠 How It Works
+
 - Loads images of known faces from the known_faces/ folder.
 - Initializes webcam and captures live video.
 - Uses face_recognition to detect and identify faces.
@@ -51,14 +53,16 @@ python facealrec2.0.py
  
 ---
 
-##📌 Use Cases
+## 📌 Use Cases
+
 - Classroom or office attendance
 - Security check-in systems
 - Touchless identification systems
 
 ---
 
-##📷 Future Enhancements
+## 📷 Future Enhancements
+
 - GUI interface for user interaction
 - Email/SMS notifications on recognition
 - Integration with cloud storage or database
@@ -66,7 +70,8 @@ python facealrec2.0.py
 
 ---
 
-##⚠️ Disclaimer
+## ⚠️ Disclaimer
+
 This project is for educational purposes. Accuracy depends on lighting, camera quality, and the dataset used. Always ensure consent is obtained when using facial recognition.
 
 
