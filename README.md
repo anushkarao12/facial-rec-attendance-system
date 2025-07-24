@@ -23,6 +23,8 @@ pip install face_recognition
 pip install opencv-python
 pip install numpy
 ```
+---
+
 ##🚀 How to Run the Project
 1. Clone the repository:
 ```bash
@@ -37,23 +39,31 @@ python facealrec2.0.py
 ```
 4. When a known face is detected, attendance is logged in the attendance_logs/ folder in a .csv file with the current date.
 
+---
+
 ##🧠 How It Works
 - Loads images of known faces from the known_faces/ folder.
 - Initializes webcam and captures live video.
 - Uses face_recognition to detect and identify faces.
-- If a face matches one in the dataset, their name is logged with the current time and date.
+- If a face matches one in the dataset, its name is logged with the current time and date.
 - Avoids duplicate attendance entries during the same session.
+ 
+---
 
 ##📌 Use Cases
 - Classroom or office attendance
 - Security check-in systems
 - Touchless identification systems
 
+---
+
 ##📷 Future Enhancements
 - GUI interface for user interaction
 - Email/SMS notifications on recognition
 - Integration with cloud storage or database
 - Multi-camera support
+
+---
 
 ##⚠️ Disclaimer
 This project is for educational purposes. Accuracy depends on lighting, camera quality, and the dataset used. Always ensure consent is obtained when using facial recognition.
