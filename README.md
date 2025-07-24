@@ -23,6 +23,7 @@ pip install face_recognition
 pip install opencv-python
 pip install numpy
 ```
+
 ---
 
 ##🚀 How to Run the Project
