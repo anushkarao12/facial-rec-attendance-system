@@ -63,7 +63,6 @@ python facealrec2.0.py
 
 ## 📷 Future Enhancements
 
-- GUI interface for user interaction
 - Email/SMS notifications on recognition
 - Integration with cloud storage or database
 - Multi-camera support
