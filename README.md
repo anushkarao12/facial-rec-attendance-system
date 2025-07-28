@@ -37,7 +37,7 @@ cd facial-rec-attendance-system
 
 3. Run the Python script:
 ```bash
-python facealrec2.0.py
+python facealrec.py
 ```
 4. When a known face is detected, attendance is logged in the attendance_logs/ folder in a .csv file with the current date.
 
