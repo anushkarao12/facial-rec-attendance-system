@@ -6,7 +6,7 @@ A Python-based facial recognition attendance system that automatically detects a
 
 ## 📁 Project Structure
 facial-rec-attendance-system/
-- facealrec2.0.py # Main script to run the facial recognition attendance system
+- facealrec.py # Main script to run the facial recognition attendance system
 - facial rec.rar # Compressed version of the entire project (for backup or sharing)
 - attendance_logs/ # Folder to store CSV files of daily attendance
 - known_faces/ # Folder containing known face images (used for recognition)
@@ -71,7 +71,7 @@ python facealrec.py
 
 ## ⚠️ Disclaimer
 
-This project is for educational purposes. Accuracy depends on lighting, camera quality, and the dataset used. Always ensure consent is obtained when using facial recognition.
+This project is for educational purposes. Accuracy depends on factors such as lighting, camera quality, and the dataset used. Always ensure consent is obtained when using facial recognition.
 
 
 
